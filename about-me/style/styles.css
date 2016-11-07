@@ -39,9 +39,17 @@
 		text-align: center;
 		}
 
-	#my-neighborhood{
-			text-align: center;
+	#my-neighborhood h2{
+		text-align: center;
+		margin-bottom: 25px;
+		background-color: #A7B3CD;
+		color: #FFEB92;
+		padding: 10px;
 		}
+
+	#my-neighborhood h3{
+		text-align: center;
+	}
 
 	#neighborhood-sights{
 			text-align: center;
@@ -79,3 +87,6 @@
 		margin-top: 20px;
 	}
 
+	.video{
+		padding: 50px 0;
+	}
