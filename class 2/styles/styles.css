@@ -1,0 +1,70 @@
+*{padding: 0;
+			margin: 0;
+		}
+
+		h1, h2, h3, h4 {
+			font-family: "Oswald";
+		}
+
+		p,li,td,th{
+			font-family: "Open Sans";
+		}
+
+		body{
+			background: #6F587F;
+	}
+		#container{
+			background: white;
+			width: 960px;
+			margin: 100px auto 100px auto;
+			padding: 25px 50px; 
+		}
+		#title-section h1{
+			font-size: 30px;
+			text-align: center;
+			margin-bottom: 50px;
+			background-color: #DEB0CB;
+			color: #382C59;
+			padding: 10px;
+			/*font-family: Proxima Nova, Arial, sans-serif;*/
+			font-weight: lighter;
+		}
+		section{
+			margin: 75px 0;
+		}
+
+		#intro {
+			text-align: center;
+		}
+
+		#intro p{
+			margin-top: 10px;
+			text-align: left;
+		}
+
+		#where-otters-live {
+			text-align: center;
+			padding: 10px;
+		}
+
+		section#where-otters-live table {
+			border: 3px dotted #DEB0CB;
+			width: 100%;
+			background-color: #FEEEEE;
+		}
+
+		section#where-otters-live table th {
+			background-color: #A784A5;
+		}
+
+		section#where-otters-live table td {
+			border: 1px solid #8DDABA;
+			padding: 10px;
+		}
+
+
+
+
+
+
+

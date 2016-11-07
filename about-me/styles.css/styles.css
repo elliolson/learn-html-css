@@ -1,0 +1,85 @@
+*{padding: 0;
+		margin: 0;
+	}
+
+	h1,h2,h3{
+		font-family: "Julius Sans One";
+	}
+
+	p,ul,td,th{
+		font-family: "Rokkitt";
+	}
+
+	body{
+		background: #ED0057;
+	}
+
+	#container{
+		background: #FFFFFF;
+		width: 960px;
+		margin: 100px auto 100px auto;
+		padding: 25px 50px;
+	}
+
+	#title-section h1{
+		font-size: 30px;
+		text-align: center;
+		margin-bottom: 50px;
+		background-color: #A8E7F0;
+		color: #FFAA00;
+		padding: 10px;
+	}
+
+	section{
+		margin: 75px 0;
+	}
+
+	#intro{
+		text-align: center;
+	}
+
+	#intro p{
+		margin-top: 10px;
+		text-align: left; 
+	}
+
+	#my-neighborhood{
+			text-align: center;
+			padding: 10px;
+		}
+
+	#neighborhood-sights{
+			text-align: center;
+			padding: 10px;
+		}
+
+	section#neighborhood-sights ul{
+			border: 3px dotted #DEB0CB;
+			width: 100%;
+			background-color: #FEEEEE;
+		}
+
+
+	#read-2016		
+
+		section#read-2016 table th {
+			background-color: #A784A5;
+		}
+
+		section#read-2016 table td {
+			border: 1px solid #8DDABA;
+			padding: 10px;
+		}
+
+
+
+
+
+
+
+
+
+
+
+
+
