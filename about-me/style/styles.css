@@ -60,7 +60,10 @@
 		}
 
 
-	#read-2016		
+	#read-2016{
+			text-align: center;
+			padding: 10px;
+		}
 
 		section#read-2016 table th {
 			background-color: #A784A5;
