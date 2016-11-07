@@ -8,13 +8,18 @@
 	</head>
 
 	<body>
-		<section id="container">
-			<section id="title-section">
+		<section id="title-section">
+			<div class="fixed">
 				<h1>SEA OTTER FACTS!!!!!</h1>
-			</section>
-			<section id="intro">
-				<img width="400" src="images/otter-1.jpg" alt="bb otter">
+			</div>
+		</section>
 
+		<section id="container">
+			<section id="intro">
+				<img width="100%" src="images/otter-1.jpg" alt="bb otter">
+			</section>
+
+			<section id="intro-text">
 				<p>
 					On the roof of the Monterey Bay Aquarium in Monterey, Calif., in a large plastic tank, a sea otter mother named Abby floats with her adopted pup, known as 671.
 				</p>
@@ -46,7 +51,13 @@
 			<section id="video">
 				<h2>Videos about otters</h2>
 
-				<video src="movies/otter-movie.mp4" controls="true" ></video>
+				<div class="video-content">
+					<iframe width="640" height="360" src="https://www.youtube.com/embed/4fx_I4piqpY" frameborder="0" allowfullscreen></iframe>	
+				</div>
+
+				<div class="video-content">
+					<video src="movies/otter-movie.mp4" controls="true" ></video>
+				</div>
 
 
 				<hr/>
