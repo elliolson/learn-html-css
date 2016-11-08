@@ -14,7 +14,7 @@
 		background: #ED0057;
 	}
 
-	#container{
+	#container-1{
 		background: #FFFFFF;
 		width: 960px;
 		margin: 100px auto 100px auto;
@@ -39,6 +39,17 @@
 		text-align: center;
 		}
 
+	#my-neighborhood{
+		text-align: left;
+	}
+
+	#container-2{
+		background: #FFFFFF;
+		width: 960px;
+		margin: 100px auto 100px auto;
+		padding: 25px 50px;
+	}
+
 	#my-neighborhood h2{
 		text-align: center;
 		margin-bottom: 25px;
@@ -49,6 +60,18 @@
 
 	#my-neighborhood h3{
 		text-align: center;
+	}
+
+	#my-neighborhood p{
+	    margin: 0;
+	    padding: 0;
+	}
+
+	#container-3{
+		background: #FFFFFF;
+		width: 960px;
+		margin: 100px auto 100px auto;
+		padding: 25px 50px;
 	}
 
 	#neighborhood-sights{
@@ -62,6 +85,12 @@
 			background-color: #FEEEEE;
 		}
 
+	#container-4{
+		background: #FFFFFF;
+		width: 960px;
+		margin: 100px auto 100px auto;
+		padding: 25px 50px;
+	}
 
 	#read-2016{
 			text-align: center;
@@ -83,10 +112,19 @@
 		width: 100%;
 	}
 
-	.text{
-		margin-top: 20px;
-	}
+	/*.text{
+	    margin: 0;
+	    padding: 0;
+	}*/
+	
 
-	.video{
-		padding: 50px 0;
-	}
+
+	/*.video-float{
+    float: right;
+    width: auto;
+    border: 3px solid #A7B3CD;
+    padding: 10px;
+	}*/
+	
+
+
