@@ -6,15 +6,26 @@
 		font-family: "Julius Sans One";
 	}
 
+	h1,h2{
+		text-align: center;
+		background-color: #A7B3CD;
+		color: #FFFF5C;
+		margin-top: 25px;
+		margin-bottom: 25px;
+		padding: 10px;
+	}
+
 	p,ul,td,th{
 		font-family: "Rokkitt";
+		font-size: 24px;
+		color: #59595C
 	}
 
 	body{
 		background: #ED0057;
 	}
-
-	#container-1{
+	
+	.main{
 		background: #FFFFFF;
 		width: 960px;
 		margin: 100px auto 100px auto;
@@ -23,108 +34,68 @@
 
 	#title-section h1{
 		font-size: 30px;
-		text-align: center;
-		margin-bottom: 50px;
-		background-color: #A7B3CD;
-		color: #FFEB92;
-		padding: 10px;
 	}
-
-	section{
-		margin: 75px 0;
-	}
-
-
+	
 	#intro{
 		text-align: center;
-		}
-
-	#my-neighborhood{
-		text-align: left;
 	}
 
-	#container-2{
-		background: #FFFFFF;
-		width: 960px;
-		margin: 100px auto 100px auto;
-		padding: 25px 50px;
+	#intro img{
+		display: inline-block;
+		margin: 25px auto;
 	}
 
-	#my-neighborhood h2{
-		text-align: center;
-		margin-bottom: 25px;
-		background-color: #A7B3CD;
-		color: #FFEB92;
-		padding: 10px;
-		}
+	#address{
+		width: 75%;
+		margin: auto;
+	}
+
+	.address p{
+		float: right;
+	    display: block;
+	    clear: both;
+	}
+
+	.address img{
+		float: left;
+	}
+
+	.address{
+	    padding: 25px 0;
+	}
 
 	#my-neighborhood h3{
 		text-align: center;
+		padding: 10px;
 	}
 
 	#my-neighborhood p{
-	    margin: 0;
-	    padding: 0;
+	    text-align: left;
+	    padding: 15px 0;
 	}
 
-	#container-3{
-		background: #FFFFFF;
-		width: 960px;
-		margin: 100px auto 100px auto;
-		padding: 25px 50px;
+	.cubs-win{
+		display: inline-block;
+		margin: 25px auto;
 	}
 
-	#neighborhood-sights{
-			text-align: center;
-			padding: 10px;
-		}
+	#neighborhood-sights p{
+		text-align: left;
+		padding: 10px;
+	}
 
 	section#neighborhood-sights ul{
-			border: 3px dotted #DEB0CB;
-			width: 100%;
-			background-color: #FEEEEE;
+			width: 50%;
+			display: inline-block;
+			padding: 15px;
+			margin-bottom: 25px;
 		}
 
-	#container-4{
-		background: #FFFFFF;
-		width: 960px;
-		margin: 100px auto 100px auto;
-		padding: 25px 50px;
+	section#read-2016 table th{
+		background-color: #A784A5;
 	}
 
-	#read-2016{
-			text-align: center;
-			padding: 10px;
-		}
-
-		section#read-2016 table th {
-			background-color: #A784A5;
-		}
-
-		section#read-2016 table td {
-			border: 1px solid #8DDABA;
-			padding: 10px;
-		}
-
-	.image{
-		top: 0;
-		left: 0;
-		width: 100%;
+	section#read-2016 table td{
+		border: 1px dotted #FFEB92;
+		padding: 15px;
 	}
-
-	/*.text{
-	    margin: 0;
-	    padding: 0;
-	}*/
-	
-
-
-	/*.video-float{
-    float: right;
-    width: auto;
-    border: 3px solid #A7B3CD;
-    padding: 10px;
-	}*/
-	
-
-
