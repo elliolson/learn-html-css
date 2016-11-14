@@ -1,0 +1,82 @@
+	h1, h2 {
+		font-family: "Julius Sans One";
+		text-align: center;
+		margin-top: 25px;
+		margin-bottom: 25px;
+		padding: 15px;
+	}
+
+	h1 {
+		color: #A7B3CD;
+		font-size: 48px;
+	}
+
+	h2 {
+		background-color: #A7B3CD;
+		color: #FFFF5C;
+	}
+
+	p,ul,td,th {
+		font-family: "Rokkitt";
+		font-size: 24px;
+		color: #59595C
+	}
+
+	h3 {
+		font-family: "Rokkitt";
+		text-align: center;
+		margin-top: 25px;
+		margin-bottom: 25px;
+		padding: 15px;
+		font-size: 36px;
+		color: #59595C
+	}
+
+	body{
+		background: #ED0057;
+	}
+
+	.main {
+		background: #FFFFFF;
+		margin: 100px;
+		padding: 50px;
+	}
+	#intro{
+		text-align: center;
+	}
+
+	#address {
+		padding: 25px 0;
+	}
+
+	.address p{
+		float: right;
+	    display: block;
+	    clear: both;
+	}
+
+	.address img{
+		float: left;
+	}
+
+	.cubs-win {
+		text-align: center;
+		float: inherit;
+	}
+
+	.list ul {
+		text-align: center;
+	}
+
+	section#read-2016 table td {
+		padding: 15px;
+	}
+
+	.quote {
+		text-align: left;
+		float: inherit;
+	}
+
+	.quote-pic {
+		float: inherit;
+	}
