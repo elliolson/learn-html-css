@@ -72,11 +72,11 @@
 		padding: 15px;
 	}
 
-	.quote {
+	.quote h3{
 		text-align: left;
-		float: inherit;
+		padding-top: 25px;
 	}
 
 	.quote-pic {
-		float: inherit;
+		float: right;
 	}
